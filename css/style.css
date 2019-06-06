@@ -657,6 +657,20 @@ footer ul li a:focus{
   transition: all 0.3s ease-in-out;	
 
  }
+/*map*/
+
+#maps {
+    width: 100%;
+    height: auto;
+}
+
+#maps iframe {
+    width: 100% !important;
+    height: 320px !important;
+}
+
+
+/*end map*/
  .copy
  {
  	background-color: #000;
